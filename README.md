@@ -1,0 +1,2 @@
+# SnakeAI
+tryna learn about 
